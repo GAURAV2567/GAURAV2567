@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GAURAV2567 aka GAURAV
-- 👀 I’m interested NLP 
-- 🌱 I’m currently learning about ML Deployment and Blog Writing(just started)
+- 👀 I’m interested in Data Science. Mostly I have worked on NLP.
+- 🌱 I’m currently learning about ML Model Deployment and Blog Writing(just started)
 - 💞️ I’m looking to collaborate ...
 - 📫 How to reach me Whatsapp/Phone:- +919724080157
 
