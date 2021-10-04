@@ -15,22 +15,15 @@
 - 📫 How to reach me Whatsapp/Phone:- +919724080157
 
 Language:- Python
-
 Machine Learning:- Pandas, Matplotlib, Seaborn,Numpy, Sci-kit Learn,Statsmodel
-
 NLP:- NLTK, Spacy,NER, Sentiment Analysis, Information Extraction, Text Analysis
-
 DL:- CNN,RNN
-
 DataBase:- MySQL, PostgreSQL
-
 Front End:- Flask
-
 Cloud:- Heroku, AWS EC2
-
 Data Vizualization:- Tableau, Excel
-
 Web Scraping:- BeautifulSoup, Selenium, AutoScraper
+
 <!---
 GAURAV2567/GAURAV2567 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
