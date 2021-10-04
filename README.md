@@ -14,7 +14,7 @@
 - 💞️ I’m looking to collaborate in any Data Science project or competition
 - 📫 How to reach me Whatsapp/Phone:- +919724080157
 
- Language:- Python
+ Language:- Python \n
  Machine Learning:- Pandas, Matplotlib, Seaborn,Numpy, Sci-kit Learn,Statsmodel
  NLP:- NLTK, Spacy,NER, Sentiment Analysis, Information Extraction, Text Analysis
  DL:- CNN,RNN
