@@ -23,9 +23,13 @@
  -DL:- CNN,RNN
  
  -DataBase:- MySQL, PostgreSQL
+ 
  -Front End:- Flask
+ 
  -Cloud:- Heroku, AWS EC2
+ 
  -Data Vizualization:- Tableau, Excel
+ 
  -Web Scraping:- BeautifulSoup, Selenium, AutoScraper
 
 <!---
