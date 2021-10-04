@@ -14,23 +14,23 @@
 - 💞️ I’m looking to collaborate in any Data Science project or competition
 - 📫 How to reach me Whatsapp/Phone:- +919724080157
 
- -Language:- Python 
+Language:- Python 
  
- -Machine Learning:- Pandas, Matplotlib, Seaborn,Numpy, Sci-kit Learn,Statsmodel
+Machine Learning:- Pandas, Matplotlib, Seaborn,Numpy, Sci-kit Learn,Statsmodel
  
- -NLP:- NLTK, Spacy,NER, Sentiment Analysis, Information Extraction, Text Analysis
+NLP:- NLTK, Spacy,NER, Sentiment Analysis, Information Extraction, Text Analysis
  
- -DL:- CNN,RNN
+DL:- CNN,RNN
  
- -DataBase:- MySQL, PostgreSQL
+DataBase:- MySQL, PostgreSQL
  
- -Front End:- Flask
+Front End:- Flask
  
- -Cloud:- Heroku, AWS EC2
+Cloud:- Heroku, AWS EC2
  
- -Data Vizualization:- Tableau, Excel
+Data Vizualization:- Tableau, Excel
  
- -Web Scraping:- BeautifulSoup, Selenium, AutoScraper
+Web Scraping:- BeautifulSoup, Selenium, AutoScraper
 
 <!---
 GAURAV2567/GAURAV2567 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
