@@ -28,7 +28,7 @@ Front End:- Flask
  
 Cloud:- Heroku, AWS EC2
  
-Data Vizualization:- Tableau, Excel
+Data Visualization:- Tableau, Excel
  
 Web Scraping:- BeautifulSoup, Selenium, AutoScraper
 
