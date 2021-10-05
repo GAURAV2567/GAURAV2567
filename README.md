@@ -3,13 +3,10 @@
     - ESG Scoring of top 500 Indian companies for Commercial Credist
       leader Dun & Bradstreet
       Tools:- NLP, Data Manipulation, Sentiment Analysis, Web Scraping, PDF text Extraction, etc.
-
-   - Build Resume Parser POC using Named Entity Recognition.
-     Implemented two Scientific Research Paper
-     Tools:- NLP, information extraction, Classification modeling, NER, Syntactic and Semantic Parsing, Data manipulation, Spacy.
-    
-   - Hands-on Experience in Market Research Industry(Borderless Access).
-    
+    - Build Resume Parser POC using Named Entity Recognition.
+      Implemented two Scientific Research Paper
+      Tools:- NLP, information extraction, Classification modeling, NER, Syntactic and Semantic Parsing, Data manipulation, Spacy.
+    - Hands-on Experience in Market Research Industry(Borderless Access).    
 - 🌱 I have also worked on Data Science & Analytics Projects ranging from Retail to Sports.
 - 💞️ I’m looking to collaborate in any Data Science project or competition
 - 📫 How to reach me Whatsapp/Phone:- +919724080157
