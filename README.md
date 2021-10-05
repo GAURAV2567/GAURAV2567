@@ -16,7 +16,7 @@
 
 Language:- Python  
 Machine Learning:- Pandas, Matplotlib, Seaborn,Numpy, Sci-kit Learn,Statsmodel 
-NLP:- NLTK, Spacy,NER, Sentiment Analysis, Information Extraction, Text Analysis 
+NLP:- NLTK, Spacy,NER, Sentiment Analysis, Information Extraction, Text Analysis  
 DL:- CNN,RNN 
 DataBase:- MySQL, PostgreSQL 
 Front End:- Flask 
