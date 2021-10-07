@@ -6,7 +6,7 @@
     - Blogger and Content Creator   
 - 🌱 I have also worked on Data Science & Analytics Projects ranging from Retail to Sports.
 - 💞️ I’m looking to collaborate in any Data Science project or competition
-- 📫 How to reach me Whatsapp/Phone:- +919724080157
+- 📫 How to reach me Whatsapp/Phone:- +919724080157 || Email:- kggaurav25674164@gmail.com
 
 Language:- Python    
 Machine Learning:- Pandas, Matplotlib, Seaborn,Numpy, Sci-kit Learn,Statsmodel      
