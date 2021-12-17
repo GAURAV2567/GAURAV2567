@@ -13,7 +13,7 @@ Machine Learning:- Pandas, Matplotlib, Seaborn,Numpy, Sci-kit Learn,Statsmodel
 NLP:- NLTK, Spacy,NER, Sentiment Analysis, Information Extraction, Text Analysis    
 DL:- CNN,RNN    
 DataBase:- MySQL, PostgreSQL   
-Front End:- Flask    
+Front End:- Flask, Streamlit    
 Cloud:- Heroku, AWS EC2   
 Data Visualization:- Tableau, Excel    
 Web Scraping:- BeautifulSoup, Selenium, AutoScraper   
