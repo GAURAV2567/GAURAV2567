@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @GAURAV2567 aka GAURAV
-- 👀 I’m interested in Data Science. Mostly I have worked on NLP Business Use-cases.
+- 👀 I’m working as a Data Scientist. Mostly I have worked on NLP Business Use-cases.
+    - Currently developing Market Intelligence product for Job market in Singapore.
     - ESG Scoring of top 500 Indian companies for Commercial Credist leader Dun & Bradstreet
     - Build Resume Parser POC using Named Entity Recognition. Implemented two Scientific Research Paper
     - Hands-on Experience in Market Research Industry(Borderless Access). 
