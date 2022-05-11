@@ -10,11 +10,14 @@
 - 📫 How to reach me Whatsapp/Phone:- +919724080157 || Email:- kggaurav25674164@gmail.com
 
 Language:- Python
+Machine Learning:- Pandas, Matplotlib, Seaborn, Numpy, Sci-kit Learn, Statsmodel
+NLP:- NLTK, Spacy, NER, word2vec, Sentiment Analysis, Information Extraction, Text Analysis, Knowledge Graph ( Neo4j )
+DL:- Tensorflow, CNN, RNN
+DataBase:- MySQL, PostgreSQL
 Front End:- Flask, Streamlit
 Cloud:- Heroku, AWS EC2, AWS Lambda/ S3/ IAM
 Data Visualization:- Tableau, Excel
 Web Scraping:- BeautifulSoup, Selenium, AutoScraper
-
 <!---
 GAURAV2567/GAURAV2567 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
