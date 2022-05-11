@@ -9,7 +9,7 @@
 - 💞️ I’m looking to collaborate in any Data Science project or competition
 - 📫 How to reach me Whatsapp/Phone:- +919724080157 || Email:- kggaurav25674164@gmail.com
 
- **Language**:- Python
+    **Language**:- Python
  **Machine Learning**:- Pandas, Matplotlib, Seaborn, Numpy, Sci-kit Learn, Statsmodel
 
 **NLP**:- NLTK, Spacy, NER, word2vec, Sentiment Analysis, Information Extraction, Text Analysis, Knowledge Graph ( Neo4j )
