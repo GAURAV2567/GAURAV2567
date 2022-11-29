@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @GAURAV2567 aka GAURAV
-- 👀 I am a guy with an MBA in Operations Research having 1+ years of Data Scientist experience.
-    - Built a Market Intelligence product(HR) for Job Street Market Singapore
-    - ESG Scoring of top 500 Indian companies for Commercial Credit leader Dun & Bradstreet
-    - Build Resume Parser POC using Named Entity Recognition. Implemented two Scientific Research Paper
-    - Hands-on Experience in Market Research Industry(Borderless Access). 
+- 👀 I am a guy who provides Business Value through Data-Driven solutions, having 2 years of Data Scientist experience.
+For most of my career, I have been involved in the NLP(Natural Language Processing) landscape of AI i.e. AI related to Text(languages).
+    - Worked on putting AI models into Production
+    - So far my work has been around these elements:
+Data Engineering, Data Analysis : Story Telling, Data Modeling/Data Science, Pushing AI model to Production(Cloud- AWS), API
+Generation for Testing/Demo Purposes, Database Administrator, Client Requirement Gathering and Clarifications, Project Management, Documentation, Front End Development as POC
     - Blogger and Content Creator   
 - 🌱 I have also worked on Data Science & Analytics Projects ranging from Retail to Sports.
 - 💞️ I’m looking to collaborate in any Data Science project or competition
