@@ -14,7 +14,7 @@ Generation for Testing/Demo Purposes, Database Administrator, Client Requirement
 **Machine Learning**:- Pandas, Matplotlib, Seaborn, Numpy, Sci-kit Learn, Statsmodel<br>
 **NLP**:- NLTK, Spacy, NER, word2vec, Sentiment Analysis, Information Extraction, Text Analysis, Knowledge Graph ( Neo4j )<br>
 **DL**:- Tensorflow, CNN, RNN<br>
-**DataBase**:- MySQL, PostgreSQL<br>
+**DataBase**:- MySQL, PostgreSQL, MongoDB<br>
 **Front End**:- Flask, Streamlit<br>
 **Cloud**:- Heroku, AWS EC2, AWS Lambda/ S3/ IAM<br>
 **Data Visualization**:- Tableau, Excel<br>
