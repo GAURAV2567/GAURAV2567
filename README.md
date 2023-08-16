@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GAURAV2567 aka GAURAV
-- 👀 I am a guy who provides Business Value through Data-Driven solutions, having 2 years of Data Scientist experience.
+- 👀 I am a guy who provides Business Value through Data-Driven solutions, having 3 years of Data Scientist experience.
 For most of my career, I have been involved in the NLP(Natural Language Processing) landscape of AI i.e. AI related to Text(languages).
     - Worked on putting AI models into Production
     - So far my work has been around these elements:
