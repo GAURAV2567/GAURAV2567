@@ -12,7 +12,7 @@ Generation for Testing/Demo Purposes, Database Administrator, Client Requirement
 
 **Language**:- Python<br>
 **Machine Learning**:- Pandas, Matplotlib, Seaborn, Numpy, Sci-kit Learn, Statsmodel<br>
-**NLP**:- NLTK, Spacy, NER, word2vec, Sentiment Analysis, Information Extraction, Text Analysis, Knowledge Graph ( Neo4j )<br>
+**NLP**:- NLTK, Spacy, NER, GenAI, LLMs, Sentiment Analysis, Information Extraction, Text Analysis, Knowledge Graph ( Neo4j )<br>
 **DL**:- Tensorflow, CNN, RNN<br>
 **DataBase**:- MySQL, PostgreSQL, MongoDB<br>
 **Front End**:- Flask, Streamlit<br>
