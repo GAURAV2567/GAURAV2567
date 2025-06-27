@@ -10,15 +10,15 @@ Generation for Testing/Demo Purposes, Database Administrator, Client Requirement
 - 💞️ I’m looking to collaborate in any Data Science project or competition
 - 📫 How to reach me Whatsapp/Phone:- +919724080157 || Email:- kggaurav25674164@gmail.com
 
-**Language**:- Python<br>
-**Machine Learning**:- Pandas, Matplotlib, Seaborn, Numpy, Sci-kit Learn, Statsmodel<br>
-**NLP**:- NLTK, Spacy, NER, GenAI, LLMs, Sentiment Analysis, Information Extraction, Text Analysis, Knowledge Graph ( Neo4j )<br>
-**DL**:- Tensorflow, CNN, RNN<br>
-**DataBase**:- MySQL, PostgreSQL, MongoDB<br>
-**Front End**:- Flask, Streamlit<br>
-**Cloud**:- Heroku, AWS EC2, AWS Lambda/ S3/ IAM<br>
-**Data Visualization**:- Tableau, Excel<br>
-**Web Scraping**:- BeautifulSoup, Selenium, AutoScraper
+**Python**<br>
+**Machine Learning**
+**NLP & Deep Learning**<br>
+**Version Control**<br>
+**SQL**<br>
+**Neo4j**<br>
+**Cloud Computing**<br>
+**Data Visualization**<br>
+**Web Scraping & Automation**
 
 <!---
 GAURAV2567/GAURAV2567 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
