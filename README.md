@@ -1,13 +1,14 @@
-- 👋 Hi, I’m @GAURAV2567 aka GAURAV
-- 👀 I am a guy who provides Business Value through Data-Driven solutions, having 3 years of Data Scientist experience.
-For most of my career, I have been involved in the NLP(Natural Language Processing) landscape of AI i.e. AI related to Text(languages).
-    - Worked on putting AI models into Production
-    - So far my work has been around these elements:
-Data Engineering, Data Analysis : Story Telling, Data Modeling/Data Science, Pushing AI model to Production(Cloud- AWS), API
-Generation for Testing/Demo Purposes, Database Administrator, Client Requirement Gathering and Clarifications, Project Management, Documentation, Front End Development as POC
-    - Blogger and Content Creator   
-- 🌱 I have also worked on Data Science & Analytics Projects ranging from Retail to Sports.
-- 💞️ I’m looking to collaborate in any Data Science project or competition
+Hi, I have been working as a Data Scientist with 3+ years of experience, specializing in Natural Language Processing (NLP) for AI solutions i.e. DocumentAI/ Text Analytics.
+
+**Business Sector/Domain:**
+- Primarily worked in Financial Domain (Credit risk, Credit Lending, Banking and FPA).
+- People Analytics
+**AI Models:**
+- Language Models (LLMs [GenAI], Knowledge Graph, Chatbot, Extact, Summarise, Search, Classify, etc)
+- Computer Vision Models (OCR Engine, Format/Structure Detection etc)
+- Speech (ASR, Speech-to-Text)
+
+If you are someone building project in Sports/Esports, Edtech, Defense or Drone Sector, I will be more than happy to help you.
 - 📫 How to reach me Whatsapp/Phone:- +919724080157 || Email:- kggaurav25674164@gmail.com
 
 **Python**<br>
