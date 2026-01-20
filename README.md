@@ -1,4 +1,4 @@
-Hi, I have been working as a Data Scientist with 3+ years of experience, specializing in Natural Language Processing (NLP) for AI solutions i.e. DocumentAI/ Text Analytics.
+Hi, I have been working as a Data Scientist with 5 years of experience, specializing in Natural Language Processing (NLP) for AI solutions i.e. DocumentAI/ Text Analytics.
 
 **Business Sector/Domain:**
 - Primarily worked in Financial Domain (Credit risk, Credit Lending, Banking and FPA).
