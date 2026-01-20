@@ -1,14 +1,14 @@
 Hi, I have been working as a Data Scientist with 5 years of experience, specializing in Natural Language Processing (NLP) for AI solutions i.e. DocumentAI/ Text Analytics.
 
 **Business Sector/Domain:**
-- Primarily worked in Financial Domain (Credit risk, Credit Lending, Banking and FPA).
+- Primarily worked in the Financial Domain (Credit risk, Credit Lending, Banking and FPA).
 - People Analytics
 **AI Models:**
-- Language Models (LLMs [GenAI], Knowledge Graph, Chatbot, Extact, Summarise, Search, Classify, etc)
-- Computer Vision Models (OCR Engine, Format/Structure Detection etc)
+- Language Models (LLMs [GenAI], Knowledge Graph, Chatbot, Extract, Summarise, Search, Classify, etc)
+- Computer Vision Models (OCR Engine, Format/Structure Detection, etc)
 - Speech (ASR, Speech-to-Text)
 
-If you are someone building project in Sports/Esports, Edtech, Defense or Drone Sector, I will be more than happy to help you.
+If you are someone building a project in Sports/Esports, Edtech, Defense or Drone Sector, I will be more than happy to help you.
 - 📫 How to reach me Whatsapp/Phone:- +919724080157 || Email:- kggaurav25674164@gmail.com
 
 **Python**<br>
